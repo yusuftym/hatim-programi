@@ -7,7 +7,7 @@ Hatim.in, kullanıcıların bir araya gelerek kolektif olarak Kur'an-ı Kerim ha
 ---
 **Lütfen**
 
-Önerilerinizi söylemekten çekinmeyin beraber bütelim bu sistemi
+Önerilerinizi söylemekten çekinmeyin beraber büyütelim bu sistemi
 ---
 
 ## ✨ Temel Özellikler
